@@ -1,0 +1,9 @@
+I suggest the Wine Dataset 🍷 (from scikit-learn). Why?
+
+Multiclass classification (3 types of wine).
+
+Real numeric features (alcohol, acidity, flavanoids, etc.).
+
+Works well with both supervised models and unsupervised clustering.
+
+Built-in to scikit-learn → no external CSV needed.
